@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lucas Gomide, 31 years old, and here's a bit about me:
+I'm Lucas Gomide, fullstack software developer and here's a bit about me:
 
 1. As a kid, I loved playing Tibia and even dabbled in **developing scripts** to automate my character's movements (I know, not the best choice, but hey, I was just a kid! 😆).
 2. I hold a **bachelor's degree in Architecture & Urbanism** and use to freelance in **3D modeling**.
